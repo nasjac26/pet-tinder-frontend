@@ -16,12 +16,12 @@ To view/edit your profile click "My Profile"
 Clone the project
 
 ```bash
-  git clone https://github.com/amiefoster/pet-tinder-frontend
+  git clone https://github.com/nasjac26/pet-tinder-frontend
 ```
  ### NOTE: You will also need to fork and clone the backend see the backend READ.me for more instructions
 
 ```bash
-  git clone https://github.com/amiefoster/pet-tinder-backend
+  git clone https://github.com/nasjac26/pet-tinder-backend
 ```
 
 Go to the project directory
